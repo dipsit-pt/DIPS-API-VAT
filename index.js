@@ -1,3 +1,3 @@
-import rVAT from "./routes";
+import router from "./routes";
 
-export { rVAT };
+export { router as rVAT };
